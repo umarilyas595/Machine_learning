@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Machine_learning
 This repository consist of implementation of basic machine learning algorithms 
 =======
@@ -43,4 +43,4 @@ Notes:
 Ensure the correct path to data files if your Python files are not located in the same directory as the "Data" folder.
 
 These implementations serve as foundational examples. Feel free to adapt and extend them for your specific machine learning projects.
->>>>>>> 56eb850 (1st commit)
+
